@@ -1,6 +1,6 @@
 
 import React from 'react';
-import App from './app';
+import App from './components/app';
 import ReactDom from 'react-dom';
 // import ReacDom from 'react-dom/client';
 
